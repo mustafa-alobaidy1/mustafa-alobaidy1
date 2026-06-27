@@ -1,33 +1,35 @@
-Governance, Risk & Compliance Portfolio
+Hi 👋
 
-This repository contains practical governance artefacts demonstrating my approach to:
+I'm Mustafa Abdulkareem
+
+Governance • Risk • Compliance
+
+🌍 South Africa
 
 ✔ ISO 27001
+
 ✔ SOC 2
+
 ✔ PCI DSS
+
 ✔ GDPR
-✔ Risk Management
-✔ Internal Audit
-✔ Continuous Compliance
 
-Contents
+✔ CISA
 
-📂 Risk Register
+✔ CISM
 
-📂 Statement of Applicability
+✔ CRISC
 
-📂 Compliance Calendar
+Pinned repositories
 
-📂 Evidence Library
+📁 GRC Portfolio
 
-📂 Internal Audit Tracker
+📁 ISO Toolkit
 
-📂 Regulatory Change Log
+📁 SOC 2 Operations
 
-📂 Vendor Risk Assessment
+📁 Vendor Risk
 
-📂 Policy Framework
+📁 Internal Audit
 
-📂 PCI DSS Coordination
-
-📂 Privacy Governance
+📁 Privacy
